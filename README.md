@@ -11,6 +11,10 @@
     <img src="https://img.shields.io/badge/▶%20ИГРАТЬ-ТЁМНОЕ%20ОЗЕРО-f2c56b?style=for-the-badge&labelColor=0a0608&color=b8842e" alt="Играть в ТЁМНОЕ ОЗЕРО">
   </a>
   &nbsp;
+  <a href="https://drive.google.com/uc?export=download&id=1s3OOU3mZY9rfmz1z-FGFllywuK0tnJkl">
+    <img src="https://img.shields.io/badge/⬇%20СКАЧАТЬ%20APK-ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=0a0608" alt="Скачать APK для Android">
+  </a>
+  &nbsp;
   <a href="https://t.me/LORD_ELSHAD">
     <img src="https://img.shields.io/badge/TELEGRAM-%40LORD__ELSHAD-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0a0608" alt="Связаться с автором">
   </a>
@@ -61,7 +65,7 @@
 | 🕯 **Виктор Морозов** · 58 лет | Отец Лизы. Нашёл твой номер в её вещах. |
 | 🕴 **Александр Вяземский** | Частный детектив. Без эмоций, только факты. |
 | 🌘 **Гражина** · 91 год | Шаман. Чувствует тебя через экран. |
-| 👁 **Аноним** | Неизвестный номер. |
+| 👁 **???** | Неизвестный номер. |
 
 Плюс три **групповых чата**, которые складываются по ходу расследования.
 
@@ -125,16 +129,16 @@
 
 - Если тебе меньше 16
 - Если ты чувствителен к темам исчезновения, утопления, эху и снам
-- Если ты один в пустом доме возле Тёмного озера
+- Если ты один в пустом доме у воды
 
 ---
 
 ## 🪐 Автор
 
-A game by **LORDEL** · 2026
+Рассказал **LORDEL** · 2026
 
 Связь: [@LORD_ELSHAD](https://t.me/LORD_ELSHAD)
 
 ---
 
-*Не смотри долго на тёмное озеро*
+*Не смотри долго на воду. Даже на фото.*
