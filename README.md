@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/▶%20ИГРАТЬ-ТЁМНОЕ%20ОЗЕРО-f2c56b?style=for-the-badge&labelColor=0a0608&color=b8842e" alt="Играть в ТЁМНОЕ ОЗЕРО">
   </a>
   &nbsp;
-  <a href="https://drive.google.com/uc?export=download&id=1s3OOU3mZY9rfmz1z-FGFllywuK0tnJkl(https://drive.google.com/file/d/17-jMjhyhGMc5GOdDv4QtxkYSFA6Ae7gw/view?usp=drive_link">
+  <a href="[https://drive.google.com/uc?export=download&id=1s3OOU3mZY9rfmz1z-FGFllywuK0tnJkl(https://drive.google.com/file/d/17-jMjhyhGMc5GOdDv4QtxkYSFA6Ae7gw/view?usp=drive_link](https://drive.google.com/file/d/17-jMjhyhGMc5GOdDv4QtxkYSFA6Ae7gw/view?usp=drive_link)">
     <img src="https://img.shields.io/badge/⬇%20СКАЧАТЬ%20APK-ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=0a0608" alt="Скачать APK для Android">
   </a>
   &nbsp;
